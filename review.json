@@ -1,0 +1,89 @@
+{
+  "reviews": [
+    {
+      "text": "This is Reviews",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "ini adalah review",
+      "rating": 10,
+      "id": 2
+    },
+    {
+      "text": "ini adalah review",
+      "rating": 3,
+      "id": 3
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaa",
+      "rating": 9,
+      "id": 4
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 5
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 6
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 7
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 9
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 10
+    },
+    {
+      "text": "",
+      "rating": 10,
+      "id": 11
+    },
+    {
+      "text": "",
+      "rating": 10,
+      "id": 12
+    },
+    {
+      "text": "",
+      "rating": 10,
+      "id": 13
+    },
+    {
+      "text": "aaaaaaaaaaaa",
+      "rating": 10,
+      "id": 14
+    },
+    {
+      "text": "aaaaaaaaaaaaaaaaaaaaaa",
+      "rating": 10,
+      "id": 15
+    },
+    {
+      "text": "bbbbbbbbbbbbbbbbbbb",
+      "rating": 10,
+      "id": 16
+    },
+    {
+      "text": "this is demo",
+      "rating": 10,
+      "id": 17
+    }
+  ]
+}
