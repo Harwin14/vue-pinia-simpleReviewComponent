@@ -7,7 +7,7 @@ export const useReviewsStore = defineStore('reviews', {
       editable: false,
       item: null 
     }
-  }),
+  }), 
   actions: {
     async addReview(review) {
       const response = await fetch(`http://localhost:5000/reviews/`, {
