@@ -5,7 +5,7 @@ export const useReviewsStore = defineStore('reviews', {
     reviews: [],
     editedData: {
       editable: false,
-      item: null
+      item: null 
     }
   }),
   actions: {
